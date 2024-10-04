@@ -1,4 +1,4 @@
 
-function mostrarAlerta() {
-    alert('No hace nada');
+function hacerNada() {
+    console.log('No hace nada'); 
 }
