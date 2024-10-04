@@ -10,7 +10,8 @@ h1 {
     color: rgba(180, 208, 252, 0.959);
 }
 img {
-    margin-top: 10 pv;
-    margin-bottom: 15pv;
-    width: 60%;
+    width: 30%;
+    height: auto;
+    display: block; /* Permitir el margen auto */
+    margin: auto; /
 }
