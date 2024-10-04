@@ -9,6 +9,10 @@ body {
 h1 {
     color: rgba(180, 208, 252, 0.959);
 }
+.texto {
+    color: rgba(180, 208, 252, 0.959);
+}
+
 img {
     width: 30%;
     height: auto;
