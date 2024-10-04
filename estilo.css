@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh; /* Asegúrate de que el fondo cubra toda la pantalla */
+    background: linear-gradient(to bottom, #003366, #66ccff); /* Degradado de azul oscuro a azul claro */
+    display: grid; /* Usar grid */
+    place-items: center; /* Centrar elementos en la cuadrícula */
+    text-align: center; /* Centrar texto */
+}
+h1 {
+    color: rgba(180, 208, 252, 0.959);
+}
+img {
+    margin-top: 10 pv;
+    margin-bottom: 15pv;
+    width: 60%;
+}
